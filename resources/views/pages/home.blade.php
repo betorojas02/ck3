@@ -8,6 +8,6 @@
 
     <!-- Footer Section End -->
 
-saasdsds
+laura y nicolas
 
 @endsection
