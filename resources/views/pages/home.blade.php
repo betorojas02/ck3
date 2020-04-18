@@ -8,6 +8,21 @@
 
     <!-- Footer Section End -->
 
-laura y nicolas
+
+        <div class="row">
+            <div class="col-12 col-md-12 col-sm-12 col-xs-12">
+                <section>
+                <!-- Hero Slider End -->
+                <!-- Features Section Begin -->
+
+                    asdasadsdas
+
+                </section>
+            </div>
+
+        </div>
+
+
+
 
 @endsection

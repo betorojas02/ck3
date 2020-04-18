@@ -26,17 +26,21 @@
 -------------------------------------------------------------------*/
 
 /*----------------------------------------*/
-/* Template default CSS
+/* Template default CSSheader-section
 /*----------------------------------------*/
-
+@font-face{
+    font-family:"kohne-makina-regular";
+    src:url("https://dafonttop.com/wp-data/k/629/11629/file/KOHNE MAKINA.ttf") format("woff"),
+    url("https://dafonttop.com/wp-data/k/629/11629/file/KOHNE MAKINA.ttf") format("opentype"),
+    url("https://dafonttop.com/wp-data/k/629/11629/file/KOHNE MAKINA.ttf") format("truetype");
+}
 html,
 body {
 	height: 100%;
-	font-family: "Roboto", sans-serif;
-	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
-	background: #0b0b0b;
-    background-color: #0c5460;
+	/*font-family: "Roboto", K;*/
+	/*-webkit-font-smoothing: antialiased;*/
+	/*font-smoothing: antialiased;*/
+	background-image: url('../img/caniscatus/Background.png');
 }
 
 h1,
@@ -97,7 +101,7 @@ a:hover,
 a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #fff;
+	color: #9a7a00 !important;
 }
 
 ul,
@@ -248,13 +252,14 @@ ol {
 -----------------------*/
 
 .header-section {
+    background-color: #000000;
 	height: 142px;
-	position: absolute;
 	width: 100%;
 	z-index: 9;
 }
 
 .header-section:after {
+
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -266,15 +271,21 @@ ol {
 }
 
 .main-menu {
+
+
+
 	position: relative;
 	padding-top: 55px;
 }
 
 .main-menu .logo {
 	position: absolute;
-	left: 50%;
+	left: 40%;
 	top: 30px;
-	margin-left: -42.5px;
+    margin-left: -38.5px
+}
+.img-logo {
+    max-width: 117%;
 }
 
 .main-menu .logo a {
@@ -286,7 +297,7 @@ ol {
 .main-menu ul {
 	list-style: none;
 	text-align: right;
-	margin-left: 200px;
+	/*margin-left: 200px;*/
 }
 
 .main-menu ul li {
@@ -296,11 +307,18 @@ ol {
 }
 
 .main-menu ul li a {
-	color: #fff;
+    font-family:"kohne-makina-regular";
+	color: #ffffff;
 	display: block;
-	font-size: 13px;
+	font-size: 20px;
 	font-weight: 500;
 	text-transform: uppercase;
+}
+
+main-menu ul li a:hover{
+
+    color: #9a7a00;
+
 }
 
 .main-menu ul li:nth-child(1) {
@@ -318,15 +336,18 @@ ol {
 .main-menu ul li:nth-child(3) {
 	float: left;
 	padding: 4px;
+    width: 10px;
 }
 
 .main-menu ul li:nth-child(4) {
-	margin-right: 35px;
+
+    /*margin-right: 309px;*/
 	padding: 4px;
+
 }
 
 .main-menu ul li:nth-child(5) {
-	margin-right: 35px;
+    margin-right: 344px;
 	padding: 4px;
 }
 
