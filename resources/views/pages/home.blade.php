@@ -15,7 +15,7 @@
                 <!-- Hero Slider End -->
                 <!-- Features Section Begin -->
 
-                    Nico es un pendejo
+                    Nico lindo
 
                 </section>
             </div>
