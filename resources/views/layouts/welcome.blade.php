@@ -17,6 +17,7 @@
         <link rel="stylesheet" href="css/barfiller.css" type="text/css">
         <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
         <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/tooplate-style.css" type="text/css">
 
     </head>
     <body>
