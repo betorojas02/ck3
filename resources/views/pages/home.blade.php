@@ -8,57 +8,129 @@
     <!-- Header Section Begin -->
 
     <!-- NICOLAS PART -->
-
+    <section>
     <div class="row">
+    <font face="Kohne Makina"> <center> NUESTROS SERVICIOS </center> </font>	<br>
+    <font face="Liberation Sans Regular"><i><center><br><br> En CANISCATUS amamos a tu peludo y estamos capacitados para brindarle la mejor experiencia. Caniscatus cuida con estatus. </center> </i></font>
             <div class="col-12 col-md-12 col-sm-12 col-xs-12">
+            <center>
             <div id="carrusel">
-            <a href="#" class="left-arrow"><img src="images/left-arrow.png" /></a>
-            <a href="#" class="right-arrow"><img src="images/right-arrow.png" /></a>
+            <a href="#" class="left-arrow"><img src="img/caniscatus/nuestrosServicios/izq.png" width="25" height="25"/></a>
+            <a href="#" class="right-arrow"><img src="img/caniscatus/nuestrosServicios/der.png" width="25" height="25"/></a>
             <div class="carrusel">
-        <div class="product" id="product_0">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 1</h5>
-            <p>165.00 €</p>
-        </div>
         <div class="product" id="product_1">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 2</h5>
-            <p>100.00 €</p>
+            <img src="img/caniscatus/nuestrosServicios/logoEtologia.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Etología</i></font>
         </div>
         <div class="product" id="product_2">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 3</h5>
-            <p>250.00 €</p>
+            <img src="img/caniscatus/nuestrosServicios/logoAdiestramiento.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Adiestramiento
+                 Básico</i></font>
         </div>
+
+        
         <div class="product" id="product_3">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 4</h5>
-            <p>75.00 €</p>
+            <img src="img/caniscatus/nuestrosServicios/logoHotel.png" width="155" height="100" />
+            <font face="Liberation Sans Regular"><i>Hotel</i></font>
         </div>
         <div class="product" id="product_4">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 5</h5>
-            <p>65.00 €</p>
+            <img src="img/caniscatus/nuestrosServicios/logoGrooming.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Grooming</i></font>
         </div>
         <div class="product" id="product_5">
-            <img src="img/bg.jpg" width="195" height="100" />
-            <h5>Lorem ipsum 6</h5>
-            <p>40.00 €</p>
+            <img src="img/caniscatus/nuestrosServicios/logoGuarderia.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Guardería</i></font>
         </div>
+        <div class="product" id="product_6">
+            <img src="img/caniscatus/nuestrosServicios/logoPiscina.png" width="140" height="100" />
+            <font face="Liberation Sans Regular"><i>Piscina</i></font>
+        </div>
+        <div class="product" id="product_7">
+            <img src="img/caniscatus/nuestrosServicios/logoHidroterapia.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Hidroterapia</i></font>
+        </div>
+        
+        <div class="product" id="product_8">
+            <img src="img/caniscatus/nuestrosServicios/logoTransporte.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Transporte</i></font>
+        </div>
+        <div class="product" id="product_9">
+            <img src="img/caniscatus/nuestrosServicios/logoVeterinaria.png" width="130" height="100" />
+            <font face="Liberation Sans Regular"><i>Veterinaria</i></font>
+        </div>
+        
     </div>
 </div>
             </div>
 
-        </div>
+<div id="demo" class="carousel slide" data-ride="carousel">
 
-        <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+<!-- Indicators -->
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+  <li data-target="#demo" data-slide-to="1"></li>
+  <li data-target="#demo" data-slide-to="2"></li>
+  <li data-target="#demo" data-slide-to="3"></li>
+  <li data-target="#demo" data-slide-to="4"></li>
+  <li data-target="#demo" data-slide-to="5"></li>
+  <li data-target="#demo" data-slide-to="6"></li>
+  <li data-target="#demo" data-slide-to="7"></li>
+  <li data-target="#demo" data-slide-to="8"></li>
+  <li data-target="#demo" data-slide-to="9"></li>
+  <li data-target="#demo" data-slide-to="10"></li>
+</ul>
+
+<!-- The slideshow -->
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img src="img/caniscatus/instalaciones/ins1.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins2.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins3.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins4.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins5.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins6.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins7.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins8.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins9.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins10.jpg" width="900" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="img/caniscatus/instalaciones/ins11.jpg" width="900" height="500">
+  </div>
+</div>
+
+
+</div>
+        </div>
+</section>
+        
+
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
 <script>
 var current = 0;
 var imagenes = new Array();
  
 $(document).ready(function() {
-    var numImages = 6;
-    if (numImages <= 3) {
+    var numImages = 9;
+    if (numImages <= 4) {
         $('.right-arrow').css('display', 'none');
         $('.left-arrow').css('display', 'none');
     }
@@ -100,35 +172,11 @@ $(document).ready(function() {
     }); 
  });
 </script>
+<!-- NICOLAS PART -->
 
     <!-- Header End -->
 
     <!-- Footer Section End -->
 
         
-        
-            
-        
-
-
-
-    <section id="tm-section-2" class="tm-section tm-section-carousel">
-						<div>
-						
-                            <font face="Kohne Makina">NUESTROS SERVICIOS</font>	
-                            <font face="Liberation Sans Regular"><i>En CANISCATUS amamos a tu peludo y estamos capacitados para brindarle la mejor experiencia. Caniscatus cuida con estatus.</i></font>	            
-							<div class="tm-img-container">
-								<div class="tm-img-slider">
-									
-                                    <a  class="tm-slider-img"><img src="img/bg.jpg" alt="Image" class="img-fluid"></a>
-                                    <a class="tm-slider-img"><img src="img/bg.jpg" alt="Image" class="img-fluid"></a>
-                                    <a class="tm-slider-img"><img src="img/bg.jpg" alt="Image" class="img-fluid"></a>
-                                    <a class="tm-slider-img"><img src="img/bg.jpg" alt="Image" class="img-fluid"></a>
-
-                                    
-                                </div>
-							</div>		            		          
-
-						</div>       		          	
-					</section>
 @endsection

@@ -28,6 +28,9 @@
 /*----------------------------------------*/
 /* Template default CSSheader-section
 /*----------------------------------------*/
+
+
+
 @font-face{
     font-family:"kohne-makina-regular";
     src:url("https://dafonttop.com/wp-data/k/629/11629/file/KOHNE MAKINA.ttf") format("woff"),
@@ -45,7 +48,7 @@ body {
 
 #carrusel {
     float:left;
-    width:600px;
+    width:810px;
     overflow:hidden;
     height:203px;
     position:relative;
@@ -55,18 +58,20 @@ body {
  
 #carrusel .left-arrow {
     position:absolute;
-    left:10px;
+    left:-3px;
     z-index:1;
     top:50%;
-    margin-top:-9px;
+	margin-top:-50px;
+	width:810px;
+	height:203px;
 }
  
 #carrusel .right-arrow {
     position:absolute;
-    right:10px;
+    right:-3px;
     z-index:1;
     top:50%;
-    margin-top:-9px;
+    margin-top:-50px;
 }
  
 .carrusel {
@@ -88,9 +93,7 @@ body {
     cursor:pointer;
 }
  
-.product {
-    border:#CCCCCC 1px solid;
-}
+
 
 h1,
 h2,
