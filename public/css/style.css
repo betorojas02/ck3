@@ -24,6 +24,7 @@
 10. Other Pages Style
 
 -------------------------------------------------------------------*/
+/* Style the video: 100% width and height to cover the entire window */
 
 /*----------------------------------------*/
 /* Template default CSSheader-section
@@ -42,6 +43,7 @@ body {
 	/*font-smoothing: antialiased;*/
 	background-image: url('../img/caniscatus/Background.png');
 }
+
 
 h1,
 h2,
@@ -80,7 +82,7 @@ h6 {
 
 p {
 	font-size: 15px;
-	color: #7b7b7b;
+	color: #000000;
 	font-weight: 400;
 	line-height: 1.6;
 	margin: 0 0 15px 0;
@@ -172,6 +174,16 @@ ol {
 
 /* buttons */
 
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 6px;
+    border: 2px solid #000000;
+}
 .primary-btn {
 	display: inline-block;
 	font-size: 14px;
@@ -2424,4 +2436,6 @@ main-menu ul li a:hover{
 	.single-blog-item .blog-text h2 {
 		font-size: 20px;
 	}
+	
 }
+
