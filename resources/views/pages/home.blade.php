@@ -14,14 +14,14 @@
                         <source src="img/baNNER CANISCATUS.mp4" type="video/mp4">
                         </video>
 
-                        
+
                 </section>
                 <centering>
             </div>
 
         </div>
     </section>
-    
+
      <section class="section bg-light py-5  bottom-slant-gray">
       <div class="container">
         <div class="row align-items-center">
@@ -47,19 +47,17 @@
             </div>
           </div>
 
-            
-          
+
+
         </div>
       </div>
     </section>
-
-
     <!-- Header End -->
 
     <!-- Footer Section End -->
 
 
-      
+
 
 
 
